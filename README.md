@@ -81,15 +81,14 @@ A Snowflake Schema was implemented to improve model organization and performance
 
 ### Data Model
 
-![Snowflake Schema](images/snowflake_schema.png)
+![image](Snowfake_Schema.png)
 
 ---
 
 ### Pivot Tables
 
-![Pivot Table 1](images/pivot1.png)
-
-![Pivot Table 2](images/pivot2.png)
+![image](Pivot_Table1.png)
+![image](Pivot_Table 2.png)
 
 ---
 
@@ -103,7 +102,10 @@ A Snowflake Schema was implemented to improve model organization and performance
 
 ### Dashboard
 
-![HR Dashboard Overview](images/dashboard_overview.png)
+![image](OverView.png)
+![image](Departments.png)
+![image](Attrition.png)
+![image](Recommendations.png)
 
 ---
 
