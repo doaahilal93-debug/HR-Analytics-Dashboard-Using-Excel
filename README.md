@@ -88,7 +88,7 @@ A Snowflake Schema was implemented to improve model organization and performance
 ### Pivot Tables
 
 ![image](Pivot_Table1.png)
-![image](Pivot_Table 2.png)
+![image](Pivot_Table2.png)
 
 ---
 
